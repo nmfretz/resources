@@ -26,12 +26,11 @@ Resources and materials for computer science and general programming. For resour
   - [Computer Networking in 100 Seconds](https://youtu.be/keeqnciDVOo)
   - [DNS Explained in 100 Seconds](https://youtu.be/UVR9lhUGAyU)
 
-- [Free Code Camp](https://www.youtube.com/c/Freecodecamp)
-- [Writing clean code CodeCamp Vid](https://youtu.be/43YenciicXk)
+- [FreeCodeCamp](https://www.youtube.com/c/Freecodecamp) channel
 
 ## Online Reads
 
-- [Writing Clean Code - Ryan McDermott ](https://github.com/ryanmcdermott/clean-code-javascript)
+- [Writing Clean Code](https://github.com/ryanmcdermott/clean-code-javascript) github README by Ryan McDermott. - this is adapted for JavaScript from Robert C. Martin's book Clean Code.
 
 ## Books
 
